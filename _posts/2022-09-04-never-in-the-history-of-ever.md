@@ -1,6 +1,6 @@
 ---
 title: "what a fucking pain"
-date: 2019-04-18T15:34:30-04:00
+date: 2022-09-04T15:34:30-04:00
 categories:
   - blog
 tags:
