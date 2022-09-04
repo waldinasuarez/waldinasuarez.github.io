@@ -8,3 +8,5 @@ tags:
   - update
 ---
 im just tawkin that tawk
+
+https://www.youtube.com/watch?v=-qnSz6Lh5pY&list=RD-qnSz6Lh5pY&start_radio=1
